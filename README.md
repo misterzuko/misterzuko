@@ -18,7 +18,7 @@ But now I decided to repent because i think it was a big sin (kayanya sih). Now 
 
 ## ✨ Portfolio Projects  
 Here are some of my projects:  
-1. [**Valesca Bakery**](github.com/ValescaBakery) - Under Develompent Commercial Store Project Request from my friend bakery store.  
+1. [**Valesca Bakery**](https://github.com/misterzuko/ValescaBakery) - Under Develompent Commercial Store Project Request from my friend bakery store.  
 
 ---
 
