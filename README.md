@@ -28,7 +28,7 @@ Here are some of my projects 👇
 1. 🥖 [**Valesca Bakery**](https://github.com/misterzuko/ValescaBakery)
    Commercial bakery store web project (under development 🍞).
 
-2. ♻️ [**SampahKita**](https://github.com/yourusername/SampahKita)
+2. ♻️ [**SampahKita**](https://github.com/misterzuko/SampahKita)
    A social and environmental platform that combines **community interaction**, **waste scanning**, and **digital waste banking**.
    🌿 Users can:
 
