@@ -1,7 +1,5 @@
 # 👋 Hi There, I'm Using WhatsApp 😆
 
-![Profile Banner](https://via.placeholder.com/1000x250?text=Welcome+to+My+GitHub+Profile)
-
 ## 🚀 About Me
 
 Hiiiiiiiiiiiiiiiiii 👋
@@ -16,7 +14,7 @@ Now I’m focusing on building useful applications and learning to become a **Fu
 ### 🔧 Skills & Technologies
 
 * **Favorite Languages:** C, Java, Python
-* **Frameworks & Tools:** Bootstrap, ReactJs, TailwindCSS
+* **Frameworks & Tools:** Vite, ReactJs, TailwindCSS, Bootstrap
 * **Utilities:** Git, Figma, Pray to God 🙏
 
 ---
@@ -26,7 +24,7 @@ Now I’m focusing on building useful applications and learning to become a **Fu
 Here are some of my projects 👇
 
 1. 🥖 [**Valesca Bakery**](https://github.com/misterzuko/ValescaBakery)
-   Commercial bakery store web project (under development 🍞).
+   Commercial bakery store web project (Under Development 🍞).
 
 2. ♻️ [**SampahKita**](https://github.com/misterzuko/SampahKita)
    A social and environmental platform that combines **community interaction**, **waste scanning**, and **digital waste banking**.
@@ -37,8 +35,6 @@ Here are some of my projects 👇
    * Earn rewards via **Bank Sampah Digital**
    * Connect with eco-communities and local waste centers
 
-   💚 Motto: *“Satu Sampah, Satu Aksi, Satu Langkah untuk Bumi.”*
-
 ---
 
 ## 💬 Let’s Collaborate
@@ -46,8 +42,8 @@ Here are some of my projects 👇
 I love building small projects, experimenting with code, and learning new things.
 If you want to collaborate on something cool — just hit me up! 🤝
 
-📩 **Email:** [your@email.com](mailto:your@email.com)
-🌐 **Portfolio:** [https://yourwebsite.com](https://yourwebsite.com)
+📩 **Email:** [danirofb01@gmail.com](mailto:danirofb01@gmail)
+🌐 **Portfolio:** [https://mrzzuko.github.io](https://mrzzuko.github.io)
 
 ---
 
