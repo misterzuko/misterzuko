@@ -2,12 +2,7 @@
 
 ## 🚀 About Me
 
-Hiiiiiiiiiiiiiiiiii 👋
-My other account was banned so... press **F** for R.I.P ☠️
-Anyway, I used to write scripts for hacking applications 👀
-But now I’ve decided to **repent** (kayanya sih 😅).
-
-Now I’m focusing on building useful applications and learning to become a **Full Stack Developer (wannabe)** 🤓
+Nothing about me, Just Code and Code and aspire to be farmer at of the end this cycle
 
 ---
 
