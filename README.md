@@ -46,4 +46,4 @@ If you want to collaborate on something cool — just hit me up! 🤝
 
 ---
 
-⭐ *“Code for good. Build for purpose.”* ⭐
+*“Nothing will done until your body got sick”*
