@@ -46,4 +46,4 @@ If you want to collaborate on something cool — just hit me up! 🤝
 
 ---
 
-*“Nothing will done until your body got sick”*
+*“Nothing will finished until your body got sick”*
