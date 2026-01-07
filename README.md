@@ -36,11 +36,6 @@ Here are some of my projects 👇
 
 ---
 
-## 💬 Let’s Collaborate
-
-I love building small projects, experimenting with code, and learning new things.
-If you want to collaborate on something cool — just hit me up! 🤝
-
 📩 **Email:** [danirofb01@gmail.com](mailto:danirofb01@gmail)
 🌐 **Portfolio:** [https://mrzzuko.github.io](https://mrzzuko.github.io)
 
