@@ -1,8 +1,8 @@
-# 👋 Hi There, I'm Using WhatsApp 😆
+# 👋 Hi There, I'm Using WhatsApp
 
 ## 🚀 About Me
 
-Nothing about me, Just Code and Code and aspire to be farmer at of the end this cycle
+Hi, My name is **Daniro Prasteyo**, i like to imaginate to create something new and excused it line by line untill coffee give me acid reflux...
 
 ---
 
