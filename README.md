@@ -23,10 +23,14 @@ Now I’m focusing on building useful applications and learning to become a **Fu
 
 Here are some of my projects 👇
 
-1. 🥖 [**Valesca Bakery**](https://github.com/misterzuko/ValescaBakery)
-   Commercial bakery store web project (Under Development 🍞).
+1. 🥖 [**Valesca Bakery**](https://valescabakery.com/)
+   Commercial Bakery Store.
+   Users can:
+   
+   * Read any information about this company
+   * Product Management by admin role
 
-2. ♻️ [**SampahKita**](https://github.com/misterzuko/SampahKita)
+3. ♻️ [**SampahKita**](https://github.com/misterzuko/SampahKita)
    A social and environmental platform that combines **community interaction**, **waste scanning**, and **digital waste banking**.
    🌿 Users can:
 
