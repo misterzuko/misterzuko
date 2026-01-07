@@ -1,12 +1,12 @@
 # 👋 Hi There, I'm Using WhatsApp
 
-## 🚀 About Me
+## About Me
 
 Hi, My name is **Daniro Prasetyo**, i like to imagine to create something new and execute it line by line untill coffee give me acid reflux...
 
 ---
 
-### 🔧 Skills & Technologies
+## Skills & Technologies
 
 * **Favorite Languages:** C, Java, Python
 * **Frameworks & Tools:** Vite, ReactJs, TailwindCSS, Bootstrap
@@ -14,7 +14,7 @@ Hi, My name is **Daniro Prasetyo**, i like to imagine to create something new an
 
 ---
 
-## ✨ Portfolio Projects
+## Portfolio Projects
 
 Here are some of my projects 👇
 
