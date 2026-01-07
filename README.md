@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Hi, My name is **Daniro Prasteyo**, i like to imaginate to create something new and excused it line by line untill coffee give me acid reflux...
+Hi, My name is **Daniro Prasetyo**, i like to imaginate to create something new and excused it line by line untill coffee give me acid reflux...
 
 ---
 
